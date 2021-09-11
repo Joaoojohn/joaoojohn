@@ -21,7 +21,7 @@
   <a href = "mailto:joaopedro.cs1222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/joão-pedro-santos-costa-23b570191" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <a href="https://steamcommunity.com/profiles/76561198362293056/" target="_blank"><img src="	https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+ <a href="https://steamcommunity.com/profiles/76561198362293056/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
  
   ![Snake animation](https://github.com/joaoojohn/Joaoojohn/blob/output/github-contribution-grid-snake.svg)
  
