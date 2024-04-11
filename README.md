@@ -1,5 +1,5 @@
 ## Hello World!
-#### C# Developer at Negocie Online 
+#### _C# Developer at Negocie Online_ 
  <div>
   <a href="https://github.com/Joaoojohn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaoojohn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
